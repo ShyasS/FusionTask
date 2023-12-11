@@ -1,0 +1,22 @@
+.Image1M{
+height:220px; 
+width:620px;
+}
+.Row{
+    margin-top:-560px;
+}
+
+
+
+
+
+
+
+@media screen and (min-width:320px) and (max-width:993px){
+    .Row{
+        margin-top:1%;
+    }
+    .Image1M{
+    width:300px;
+    }
+}
