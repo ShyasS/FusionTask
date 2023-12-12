@@ -9,7 +9,7 @@ function App() {
     <Router>
       <Index/>
       <Routes>
-      <Route path='/Image1' element={<Image1/>}/>
+      <Route path='/' element={<Image1/>}/>
       <Route path='/Image2' element={<Images2/>}/>
       <Route path='/Image3' element={<Images3/>}/>
       </Routes>
